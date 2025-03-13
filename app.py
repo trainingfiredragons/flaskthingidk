@@ -7,7 +7,7 @@ def write(msg = "Nothing"):
   f.write(msg + "\n")
   f.close()
 
-#tttttttttt
+#tfdsfdsfdsfdsfdsfsd
 
 def read():
   f = open("list.txt", "r")
